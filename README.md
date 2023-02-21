@@ -7,8 +7,13 @@
 
 
 Для работы бота:
-pip install pyTelegramBotAPI
-pip install beautifulsoup4
-pip install requests
-pip install selenium
-pip install -U aiogram
+
+/pip install pyTelegramBotAPI
+
+/pip install beautifulsoup4
+
+/pip install requests
+
+/pip install selenium
+
+/pip install -U aiogram
