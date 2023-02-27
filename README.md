@@ -33,3 +33,8 @@ Telegram бот с функции скриншота информации и в�
 
 
 Принимаю внедрение новых идей, инструментов и функционала.
+<div align="center">
+
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+
+</div>
