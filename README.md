@@ -1,5 +1,6 @@
-# TelegramWiki.bot.py
-<h1>Telegram бот с функции скриншота информации и вывода страниц википедии в диалоговое окно Telegram.</h1> 
+# <div align="center">TelegramWiki.bot.py</div>
+
+<h1>Telegram бот с функции скриншота информации и вывода страниц википедии в диалоговое окно Telegram.</h1>
 <div align="center">
 Для знакомства с примерным функционалом прошлой версии:
 (Старая версия 1.0 https://github.com/DarcTorim/Telegram.bot.py)
